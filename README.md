@@ -1,4 +1,1 @@
-#pá teste 1
-
-
-agora vou modificar em
+Teste em JS para descobrir quantas palavras distintas há na série Breaking Bad.
